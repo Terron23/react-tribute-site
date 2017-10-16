@@ -1,0 +1,11 @@
+$color: black;
+$width: 500px;
+
+#content{
+  color: $color;
+  font-size: $width /25
+}
+
+img {
+ width: $width *2;
+}
